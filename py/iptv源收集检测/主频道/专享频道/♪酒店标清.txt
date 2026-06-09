@@ -12,6 +12,7 @@ CCTV10,http://175.152.38.128:9901/tsfile/live/faacts/0010_1.m3u8?key=txiptv&play
 CCTV11,http://175.152.38.128:9901/tsfile/live/faacts/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://175.152.38.128:9901/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://175.152.38.128:9901/tsfile/live/faacts/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://175.152.38.128:9901/tsfile/live/faacts/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://175.152.38.128:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 东南卫视,http://175.152.38.128:9901/tsfile/live/faacts/0137_2.m3u8?key=txiptv&playlive=0&authid=0
