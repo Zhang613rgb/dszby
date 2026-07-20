@@ -1,1 +1,2 @@
 
+贵州卫视,http://175.0.65.191:8088/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
